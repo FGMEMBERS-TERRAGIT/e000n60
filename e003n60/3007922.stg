@@ -1,1 +1,6 @@
 OBJECT_SHARED Models/Industrial/oilrig09.xml 3.5031666 60.7743333 -0.21 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/OilPlatform.xml 3.50139 60.77353 -0.20 180
+# END dsf2stg
