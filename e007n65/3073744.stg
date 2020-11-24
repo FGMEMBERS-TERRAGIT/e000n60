@@ -1,2 +1,7 @@
 OBJECT_SHARED Models/Airport/ndb.ac 7.315833 65.325556 -0.89 180
 OBJECT_SHARED Models/Communications/vordme_1.xml 7.315833 65.325556 -0.89 180
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/lib/OilRig.ac 7.31564 65.32564 0.00 315
+# END dsf2stg

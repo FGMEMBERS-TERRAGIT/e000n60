@@ -45,3 +45,10 @@ OBJECT_SHARED Models/Aircraft/PC_9M_Slovenia.ac 6.4972241 60.6394301 132.52 88
 OBJECT_SHARED Models/Airport/Hangar_14x20m.ac 6.4949865 60.639611 133.45 92
 OBJECT_SHARED Models/Airport/Hangar_2hauteurs.ac 6.4959874 60.639657 133.32 96
 OBJECT_SHARED Models/Airport/Hangar_18_14.ac 6.4977735 60.6398287 133.29 92
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/hatchback_blue.ac 6.49595 60.63969 0.00 95.19
+OBJECT_SHARED Models/lib/HorizTanks2.ac 6.49597 60.63952 132.95 184.82
+OBJECT_SHARED Models/lib/SmHangar.ac 6.49471 60.63947 132.78 93.64
+# END dsf2stg

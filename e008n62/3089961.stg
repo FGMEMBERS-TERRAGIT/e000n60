@@ -40,3 +40,10 @@ OBJECT_SHARED Models/Airport/Hangar_Cargo.ac 8.6761932 62.6565426 61.61 0
 OBJECT_SHARED Models/Airport/Avgas_Pump.ac 8.6773711 62.6565287 62.64 280
 OBJECT_SHARED Models/Airport/Hangar_20mx14m.ac 8.6773508 62.6563804 62.42 272
 OBJECT_SHARED Models/Aircraft/virus-sw.ac 8.6773209 62.6564016 62.43 312
+# dsf2stg
+# do not edit below this line
+#
+OBJECT_SHARED Models/Transport/van_red.ac 8.67669 62.65618 0.00 19.65
+OBJECT_SHARED Models/Transport/hatchback_silver.ac 8.67658 62.65617 58.87 331.7
+OBJECT_SHARED Models/lib/hangar81x16.ac 8.67633 62.65606 58.87 108.18
+# END dsf2stg
